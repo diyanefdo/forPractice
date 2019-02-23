@@ -6,6 +6,8 @@
 #include "fridge_organizer.hpp"
 using namespace std;
 
+const useless_variable; 
+
 // parametric constructor for FridgeOrganizer
 FridgeOrganizer::FridgeOrganizer(unsigned int n_stack_number, unsigned int n_stack_capacity) {
 	if (n_stack_number >= 2) 		
