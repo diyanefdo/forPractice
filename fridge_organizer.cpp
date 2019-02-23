@@ -7,6 +7,7 @@
 using namespace std;
 
 const useless_variable; 
+const useless_variable2;
 
 // parametric constructor for FridgeOrganizer
 FridgeOrganizer::FridgeOrganizer(unsigned int n_stack_number, unsigned int n_stack_capacity) {
